@@ -107,4 +107,4 @@ const { code, map } = generate(
 );
 
 // Sourcemap will point to both a.js and b.js where appropriate.
-```
+``` 
